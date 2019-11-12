@@ -22,11 +22,11 @@ public class DatabaseUtil {
 
 	public static Connection getConnection() {
 
-		String serverHost = "localhost";
+		String serverHost = "192.168.5.129";
 		String serverPort = "3306";
 		String databaseName = "panaderia";
 		String databaseUser = "root";
-		String databasePass = "navarro97";
+		String databasePass = "CYMzpo16728";
 
 		Connection conn = null;
 
